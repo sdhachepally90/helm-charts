@@ -4,6 +4,7 @@ fullnameOverride: ""
 # Chart debug mode
 # (eg. disable helm hook delete policy)
 # test add
+# test2
 debug: false
 
 server:
