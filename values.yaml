@@ -7,7 +7,12 @@ fullnameOverride: ""
 # test2
 # test for check git pull and fetchdffsd
 # test 3
+<<<<<<< Updated upstream
 # git stash
+=======
+
+# git statsh 2
+>>>>>>> Stashed changes
 debug: false
 
 server:
