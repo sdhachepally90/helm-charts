@@ -5,8 +5,9 @@ fullnameOverride: ""
 # (eg. disable helm hook delete policy)
 # test add
 # test2
-# test for check git pull and fetch
+# test for check git pull and fetchdffsd
 # test 3
+# git stash
 debug: false
 
 server:
