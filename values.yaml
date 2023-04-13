@@ -5,6 +5,7 @@ fullnameOverride: ""
 # (eg. disable helm hook delete policy)
 # test add
 # test2
+# test 3
 debug: false
 
 server:
